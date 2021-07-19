@@ -1,0 +1,9 @@
+C:\Programacion\Personal\DaaTest\Repositories\bin\Debug\Repositories.dll
+C:\Programacion\Personal\DaaTest\Repositories\bin\Debug\Repositories.pdb
+C:\Programacion\Personal\DaaTest\Repositories\bin\Debug\RestSharp.dll
+C:\Programacion\Personal\DaaTest\Repositories\bin\Debug\RestSharp.xml
+C:\Programacion\Personal\DaaTest\Repositories\obj\Debug\Repositories.csproj.CoreCompileInputs.cache
+C:\Programacion\Personal\DaaTest\Repositories\obj\Debug\Repositories.csproj.CopyComplete
+C:\Programacion\Personal\DaaTest\Repositories\obj\Debug\Repositories.dll
+C:\Programacion\Personal\DaaTest\Repositories\obj\Debug\Repositories.pdb
+C:\Programacion\Personal\DaaTest\Repositories\obj\Debug\Repositories.csprojAssemblyReference.cache
